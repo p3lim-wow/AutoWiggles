@@ -1,0 +1,7 @@
+## Interface: 30300
+## Author: p3lim
+## Version: Alpha
+## Title: AutoWiggles
+## Notes: Automatic spawning of Mr. Wiggles, custom for Dance.
+
+AutoWiggles.lua
